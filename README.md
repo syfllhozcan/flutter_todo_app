@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/79658728/228674238-1d6bd555-d2e8-4ec7-9f81-77a21b0b0fbd.png" width="300" ><img src="https://user-images.githubusercontent.com/79658728/228674184-8c2164ab-b645-4a05-bd09-5acecf93f206.png" width="300" ><img src="https://user-images.githubusercontent.com/79658728/228674995-eb84857d-61fa-4d20-b145-253fd7c5010d.png" width="300" >
+<img src="https://user-images.githubusercontent.com/79658728/228674238-1d6bd555-d2e8-4ec7-9f81-77a21b0b0fbd.png" width="300" > <img src="https://user-images.githubusercontent.com/79658728/228674184-8c2164ab-b645-4a05-bd09-5acecf93f206.png" width="300" > <img src="https://user-images.githubusercontent.com/79658728/228674995-eb84857d-61fa-4d20-b145-253fd7c5010d.png" width="300" >
 
 # todo_app
 
