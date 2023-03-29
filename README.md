@@ -1,6 +1,6 @@
-![todo_app_2](https://user-images.githubusercontent.com/79658728/228674184-8c2164ab-b645-4a05-bd09-5acecf93f206.png)
-![todo_app_3](https://user-images.githubusercontent.com/79658728/228674215-d11436d0-0888-4c70-a896-39050aa09362.png)
-![todo_app_1](https://user-images.githubusercontent.com/79658728/228674238-1d6bd555-d2e8-4ec7-9f81-77a21b0b0fbd.png)
+<img src="https://user-images.githubusercontent.com/79658728/228674238-1d6bd555-d2e8-4ec7-9f81-77a21b0b0fbd.png" width="300" >
+<img src="https://user-images.githubusercontent.com/79658728/228674184-8c2164ab-b645-4a05-bd09-5acecf93f206.png" width="300" >
+<img src="https://user-images.githubusercontent.com/79658728/228674215-d11436d0-0888-4c70-a896-39050aa09362.png" width="300" >
 
 # todo_app
 
